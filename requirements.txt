@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+matplotlib
+retworkx<=0.8.0
+qiskit
+ibm_quantum_widgets
+seaborn
+pylatexenc
